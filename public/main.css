@@ -1,0 +1,17 @@
+.navbar{
+    padding: 3.5rem 1rem!important;
+}
+
+.navbar-brand img{
+    height: 100px;
+    width: 300px;
+}
+
+.navbar .nav-link{
+    color: #555555!important;
+}
+
+.main{
+    background: #eeeeee;
+    padding: 5.5rem 1rem!important;
+}
